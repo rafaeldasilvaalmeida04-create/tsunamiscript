@@ -1,0 +1,300 @@
+loadstring(game:HttpGet("https://pastefy.app/vGYFgar9/raw"))()t 1
+
+echo "
+â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘
+â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—
+â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–‘â–ˆâ–ˆâ•‘â–‘â–‘â–ˆâ–ˆâ•‘
+â–‘â•šâ•â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â•â–‘â–ˆâ–ˆâ•”â•â•â•â–‘â–‘â–ˆâ–ˆâ•”â•â•â•â–‘â–‘â–ˆâ–ˆâ•‘â–‘â–‘â–ˆâ–ˆâ•‘
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘â–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•
+â•šâ•â•â•â•â•â•â–‘â•šâ•â•â–‘â–‘â–‘â–‘â–‘â•šâ•â•â•â•â•â•â•â•šâ•â•â•â•â•â•â•â•šâ•â•â•â•â•â•â–‘
+
+â–ˆâ–ˆâ–ˆâ•—â–‘â–‘â–‘â–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
+â–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â•â•
+â–ˆâ–ˆâ•”â–ˆâ–ˆâ–ˆâ–ˆâ•”â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–‘â–‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–‘â–‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–‘
+â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–‘â–‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–‘â–‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•â–‘â–‘
+â–ˆâ–ˆâ•‘â–‘â•šâ•â•â–‘â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
+â•šâ•â•â–‘â–‘â–‘â–‘â–‘â•šâ•â•â–‘â•šâ•â•â•â•â•â–‘â•šâ•â•â•â•â•â•â–‘â•šâ•â•â•â•â•â•â•"
+sleep 1.0
+
+
+echo "â€¢ SCRIPT CRIADO POR @Neajzx"
+echo "â€¢ EspecificaÃ§Ã£o Do Dispositivo"
+
+sleep 0.5
+echo "APARELHO:  ( $(getprop ro.product.brand) ) "
+sleep 0.5
+echo "MODELO: ( $(getprop ro.product.model) ) "
+sleep 0.5
+echo "CPU: ( $(getprop ro.hardware) ) "
+sleep 0.5
+echo "GPU: ( $(getprop ro.hardware.egl) ) "
+sleep 0.5
+echo "SDK: ( $(getprop ro.build.version.sdk) ) "
+
+echo "â€¢ SPEED MODE ACTIVATING"
+echo "â€¢ MÃ³dulo Sendo Scriptado, Aguarde..."
+
+sleep 1.0
+setprop debug.egl.hw 1
+setprop debug.hwui.disable_vsync true
+setprop debug.hwui.renderer.disable_path_drop 1
+setprop debug.hwui.renderer.disable_vsync 1
+setprop debug.egl.force_msaa 0
+setprop debug.ro.sys.renderer.disable_effects 1
+setprop debug.kill_free_memory 1
+setprop debug.hwui.use_buffer_age false
+setprop debug.hwui.skip_empty_damage false
+setprop debug.hwui.show_dirty_regions false
+setprop debug.multicore.processing 1
+setprop debug.app.performance_restricted false
+setprop debug.performance.tuningÂ 1
+setprop debug.egl.buffcount 4
+setprop debug.gr.swapinterval 0
+setprop debug.egl.swapinterval 0 
+setprop debug.sf.swapinterval 0 
+setprop debug.gl.swapinterval 0
+setprop debug.OVRPlugin.systemDisplayFrequency 144
+setprop debug.OVRManager.cpuLevel 4
+setprop debug.OVRManager.gpuLevel 4
+setprop debug.hwui.render_dirty_regions false
+setprop debug.hwui.use_buffer_age false
+setprop debug.cpurend.vsync false
+setprop debug.performance_schema_max_memory_classes 320
+setprop debug.performance_schema_max_socket_classes 10
+setprop debug.redroid.fps 144
+setprop debug.sf.early_app_phase_offset_ns 500000
+setprop debug.sf.early_gl_app_phase_offset_ns 15000000
+setprop debug.sf.early_gl_phase_offset_ns 3000000
+setprop debug.sf.early_phase_offset_ns 500000
+setprop debug.sf.enable_gl_backpressure 1
+setprop debug.sf.high_fps_early_gl_phase_offset_ns 14400000
+setprop debug.sf.high_fps_early_phase_offset_ns 6100000
+setprop debug.composition.type gpu,cpu,c2d,performance,speed
+setprop debug.sf.enable_hgl 1
+setprop debug.gpu3D_MinClock 64
+setprop debug.cpuprio 10
+setprop debug.gpuprio 10
+setprop debug.ioprio 10
+setprop debug.hwui.target_cpu_time_percent 200 
+setprop debug.hwui.target_gpu_time_percent 200
+setprop debug.hwui.profile false
+setprop debug.hwui.profile.maxframes 144
+setprop debug.rs.default_cpu_driver 1
+setprop debug.oculus.refreshRate 144
+setprop debug.fps.capsmin 144
+setprop debug.hwui.game.fps 144
+setprop debug.hwui.texture_cache_size 0
+setprop debug.graphic.quality 0
+setprop debug.sf.high_fps_early_phase_offset_ns 6100000
+setprop debug.sf.high_fps_early_gl_phase_offset_ns 6500000
+setprop debug.sf.high_fps_late_app_phase_offset_ns 1000000
+setprop debug.gfx.framerate 144
+setprop debug.ro.vendor.qti.sys.fw.bg_apps_limit 144
+setprop debug.systemuicompilerfilter speed
+setprop debug.sf.frame_rate_multiple_threshold 144
+setprop debug.sf.hw 1
+setprop debug.rs.max_threads true
+setprop debug.gaming.mode_enable 1
+setprop debug.sf.showfps 0
+setprop debug.sf.showupdates 0 
+setprop debug.sf.showcpu 0 
+setprop debug.gpurend.vsync false
+setprop debug.android.thermal-hal stoped
+setprop debug.gaming.perf.mode 1
+setprop debug.persist.sys.NV_FPSLIMIT 144
+setprop debug.sys.scheduler.policy performance
+setprop debug.egl.profiler 0
+setprop debug.persist.sys.ui.hw true
+setprop debug.hwui.priority 1
+setprop debug.egl.hw 0
+setprop debug.dalvik.vm.dex2oat-filter speed
+setprop debug.surface.package.name com.dts.freefiremax,com.dts.freefireth
+setprop debug.surface.com.dts.freefiremax 1
+setprop debug.surface.com.dts.freefiremax true
+setprop debug.surface.com.dts.freefireth 1
+setprop debug.surface.com.dts.freefireth true
+setprop debug.refresh_rate.min_fps 144
+
+sleep 1.0
+
+echo "â€¢ SCRIPT ACTIVATED"
+
+sleep 1.0
+
+echo "â€¢ BOOST GAME"
+
+cmd package compile -m speed -f com.dts.freefiremax
+cmd package compile -m speed -f com.dts.freefireth
+
+echo "â€¢ ð™️µð™️¸ð™️½ð™️°ð™️»ð™️¸ðš‰ð™️°ð™️³ð™️¾"
+
+sleep 1.0
+
+
+echo "â€¢ ð™️°ð™️³ð™️¸ð™️²ð™️¸ð™️¾ð™️½ð™️°ð™️½ð™️³ð™️¾ ðš‚ðšƒðšð™️¸ð™️½ð™️¶ðš‚"
+
+
+sleep 0.5
+dumpsys deviceidle whitelist -com.google.android.gms
+dumpsys battery reset
+dumpsys battery reset
+settings put global gpu_blacklist 0
+settings put global gpu_debug_layers 1
+settings put global gpu_debug_skip_rendering 1
+settings put global gpu_enabled 1
+settings put global power_profile performance
+settings put global debug_app 1
+settings put global lockscreen_fps 144
+settings put global high_performance 1
+settings put global gpu_renderer 1
+settings put global pointer_speed 1
+settings put global hidden_api_blacklist_exemptions com.google.android.gms
+settings put global sysui_enable_GPU_rendered_cached 1
+settings put system POWER_PERFORMANCE_MODE_OPEN 1
+settings put secure speed_mode_enable 1
+settings put system user_refresh_rate 144
+settings put system peak_refresh_rate	144
+settings put secure miui_refresh_rate 144
+
+sleep 1.0
+
+echo "â€¢ ð™️µð™️¸ð™️½ð™️°ð™️»ð™️¸ðš‰ð™️°ð™️³ð™️¾"
+
+sleep 0.5
+echo "" 
+echo "â€¢ ð™️°ðšƒð™️¸ðš…ð™️°ð™️½ð™️³ð™️¾ ð™️¾ ð™️¼ðš„ð™️»ðšƒð™️¸ ð™️¿ðšð™️¾ð™️²ð™️´ðš‚ðš‚ð™️¾ðš‚ ðš†ð™️´ð™️± ðš…ð™️¸ð™️´w!"
+echo ""
+
+sleep 0.5
+cmd webviewupdate enable-multiprocess
+
+echo "â€¢ ð™️µð™️¸ð™️½ð™️°ð™️»ð™️¸ðš‰ð™️°ð™️³ð™️¾"
+
+sleep 0.5
+
+echo "â€¢ Ativando Maxima performance!"
+
+cmd power set-fixed-performance-mode-enabled true
+cmd sensorservice set-uid-state com.dts.freefiremax activity
+cmd sensorservice set-uid-state com.dts.freefireth activity
+cmd activity kill-all
+cmd thermalservice override-status 0
+
+echo "â€¢ ð™️µð™️¸ð™️½ð™️°ð™️»ð™️¸ðš‰ð™️°ð™️³ð™️¾"
+
+echo "â€¢ ð™️³ð™️´ð™️»ð™️´ðšƒð™️´ðšƒð™️°ð™️½ð™️³ð™️¾ ðš‚ðšƒðšð™️¸ð™️½ð™️¶ðš‚ ð™️³ð™️´ðš‚ð™️½ð™️´ð™️²ð™️´ðš‚ðš‚ð™️°Ìðšð™️¸ð™️°ðš‚" 
+
+sleep 0.5
+settings delete system background_power_saving_enable
+settings delete system debug.rs.default-CPU-driver
+settings delete system debug.rs.default-CPU-buffer
+settings delete system dev.pm.dyn_samplingrate
+settings delete system ro.trim.config
+settings delete system af.resampler.quality
+settings delete system ro.config.hw_fast_dormancy
+settings delete system persist.sys.puregeable_assets
+settings delete global dns
+settings delete global data_roaming
+settings delete global download_manager_max_bytes_over_mobile
+settings delete global download_manager_recommended_max_bytes_over_mobile
+settings delete global up_threshold_multi_core
+settings delete global up_threshold_any_cpu_load
+settings delete global debug_gamemode_value
+settings delete global debug.sqlite.syncmode
+settings delete global debug.dev.disable_sched_boost
+settings delete global scaling_governor
+settings delete global sem_performance_mode
+settings delete global sem_enhanced_cpu_responsiveness
+settings delete global sem_perftune_ram
+settings delete global sem_perftune_cpugpu
+settings delete global enhanced_processing
+settings delete global profiler.force_disable_ulog
+settings delete global windowsmgr.max_events_per_sec
+settings delete global TapInterval
+settings delete global ro.product.gpu.driver
+settings delete global ro.wmt.blcr.enable
+
+sleep 1.0
+
+echo "â€¢ ð™️µð™️¸ð™️½ð™️°ð™️»ð™️¸ðš‰ð™️°ð™️³ð™️¾"
+
+sleep 1.0
+
+echo "â€¢ ð™️»ðš’ðš–ðš™️ðšŠðš—ðšðš˜ ð™️²ðšŠðšŒðš‘ðšŽ ðšðš˜ðšœ ðšŠðš™️ðš™️ðšœ! "
+
+sleep 0.5
+
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+pm trim-caches 999999999999999999
+
+sleep 1.0
+
+echo "â€¢ ð™️µð™️¸ð™️½ð™️°ð™️»ð™️¸ðš‰ð™️°ð™️³ð™️¾"
+
+sleep 1.0
+
+echo "ð™️µðšŽðšŒðš‘ðšŠðš—ðš?? ð™️°ðš™️ðš•ðš’ðšŒðšŠðšðš’ðšŸðš˜ðšœ ð™️´ðš– ðŸ¸Â°ðš™️ðš•ðšŠðš—ðš˜"
+
+if [[ ! $(cmd -l | grep activity) ]]; then
+echo "Not Supported"
+exit
+fi
+
+sleep 2
+
+for app in $(cmd package list packages -3 | cut -f 2 -d ":"); do
+if [[ ! "$app" == "me.piebridge.brevent" ]] && [[ ! "$app" == "eu.sisik.hackendebug" ]]; then
+echo "â€¢ Fechando Apps Em 2Â° Plano Aguarde $app"
+cmd activity force-stop "$app"
+sleep 1
+echo ""
+fi
+done
+
+
+echo "â€¢ ð™️µð™️¸ð™️½ð™️°ð™️»ð™️¸ðš‰ð™️°ð™️³ð™️¾"
+
+sleep 1.0
+
+echo "MÃ³dulo Scriptado Com Sucesso!"
+echo "â€¢ Melhorias!"
+sleep 1.0
+echo "âœ…Fluidez"
+sleep 1.0
+echo "âœ…Performance"
+sleep 1.0
+echo "âœ…Boost Fps"
+
+sleep 0.5
+
+echo ""
+echo "Modulo nÃ£o e permanente entÃ£o apos reinicia celular terÃ¡ que executa o modulo novamente."
+echo "
+â–ˆâ–ˆâ–ˆâ•—â–‘â–‘â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ•—
+â–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ•‘
+â–ˆâ–ˆâ•”â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ•‘
+â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•â–‘â–‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•—â–‘â–‘â–ˆâ–ˆâ•‘
+â–ˆâ–ˆâ•‘â–‘â•šâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–‘â–‘â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•
+â•šâ•â•â–‘â–‘â•šâ•â•â•â•šâ•â•â•â•â•â•â•â•šâ•â•â–‘â–‘â•šâ•â•â–‘â•šâ•â•â•â•â•â–‘"
+am start -a android.intent.action.VIEW -d https://www.instagram.com/neajzx?igsh=OGQ5ZDc2ODk2ZA==
